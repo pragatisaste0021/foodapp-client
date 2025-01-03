@@ -1,0 +1,482 @@
+[
+    {
+        "_id": "642c155b2c4774f05c36eeaa",
+        "name": "Caesar Salad",
+        "recipe": "A classic salad made with romaine lettuce, croutons, parmesan cheese, and a creamy Caesar dressing, often topped with grilled chicken or bacon.",
+        "image": "https://thumbs.dreamstime.com/b/caesar-salad-plate-white-background-caesar-salad-plate-isolated-white-background-113635614.jpg",
+        "category": "salad",
+        "price": 14.7
+    },
+    {
+        "_id": "642c155b2c4774f05c36eeb9",
+        "name": "Lemonade",
+        "recipe": "A classic refreshing drink made with freshly squeezed lemons, water, and sugar, served chilled over ice for a sweet and tangy treat.",
+        "image": "https://thumbs.dreamstime.com/b/two-glass-lemonade-lemon-lime-strawberries-mint-white-background-colorful-summer-drinks-strawberries-183718876.jpg",
+        "category": "drinks",
+        "price": 14.7
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee7c",
+        "name": "Spaghetti Bolognese",
+        "recipe": "A classic Italian pasta dish featuring a rich, slow-cooked meat sauce made with ground beef, tomatoes, and herbs, served over spaghetti.",
+        "image": "https://www.cookitalia.co.uk/wp-content/uploads/2014/09/Linguine-Bolognese-focussed.png",
+        "category": "popular",
+        "price": 14.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee88",
+        "name": "Chocolate Lava Cake",
+        "recipe": "A warm, decadent chocolate cake with a gooey molten center, perfect for chocolate lovers. It's rich, indulgent, and served hot for a delightful experience.",
+        "image": "https://sweetbeginningsblog.com/wp-content/uploads/2020/01/Chocolate-Molten-Lava-Cakes-27.jpg",
+        "category": "dessert",
+        "price": 12.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee7a",
+        "name": "Sushi",
+        "recipe": "A Japanese dish consisting of vinegared rice paired with raw or cooked seafood, vegetables, and sometimes fruits, typically served with soy sauce and wasabi.",
+        "image": "https://wallpapers.com/images/hd/fresh-sushi-platter-png-gvg39-kykutlvc0jiw1ghp.png",
+        "category": "popular",
+        "price": 14.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee74",
+        "name": "Chicken Tikka Masala",
+        "recipe": "A popular Indian dish of tender chicken pieces cooked in a creamy, spiced tomato-based sauce, often served with naan or rice.",
+        "image": "https://static.vecteezy.com/system/resources/previews/030/666/058/non_2x/curry-with-white-background-high-quality-ultra-hd-free-photo.jpg",
+        "category": "popular",
+        "price": 14.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee712",
+        "name": "Dim Sum",
+        "recipe": "A Chinese culinary tradition featuring small bite-sized portions of food like dumplings, buns, and spring rolls, often served in bamboo steamer baskets.",
+        "image": "https://img.freepik.com/premium-photo/fish-buns-plate-white-background-real-photo-top-view-delicious-looks_763111-674.jpg",
+        "category": "popular",
+        "price": 14.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee7x",
+        "name": "Pizza Margherita",
+        "recipe": "An Italian pizza with a simple topping of fresh tomatoes, mozzarella cheese, basil, and olive oil, representing the colors of the Italian flag.",
+        "image": "https://th.bing.com/th/id/OIP.AkXavIPbaSNKS0nRDuA0UAHaHa?pid=ImgDet&w=195&h=195&c=7&dpr=1.4",
+        "category": "popular",
+        "price": 14.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee8c",
+        "name": "Cheesecake",
+        "recipe": "A rich and creamy dessert made with cream cheese and a graham cracker crust, often topped with fruit, chocolate, or caramel for extra sweetness.",
+        "image": "https://img.freepik.com/premium-photo/plate-with-delicious-cheesecake-slice-white-background_947206-2652.jpg",
+        "category": "dessert",
+        "price": 12.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee94",
+        "name": "Four Cheese Pizza",
+        "recipe": "A rich and indulgent pizza topped with a blend of four cheeses—typically mozzarella, cheddar, gorgonzola, and parmesan—on a tomato sauce base.",
+        "image": "https://img.freepik.com/premium-psd/circular-pizza-with-cheese-sauce-wooden-plate-italian-food-isolate-white-background_999419-656.jpg",
+        "category": "pizza",
+        "price": 12.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee9e",
+        "name": "Pepperoni Pizza",
+        "recipe": "A crowd favorite topped with spicy, crispy pepperoni slices and melted mozzarella cheese on a savory tomato sauce base.",
+        "image": "https://toppng.com/uploads/preview/cheesy-pepperoni-pizza-transparent-background-png-11689972481vchblunxwb.webp",
+        "category": "pizza",
+        "price": 12.9
+    },
+    {
+        "_id": "642c155b2c4774f05c36eea6",
+        "name": "Greek Salad",
+        "recipe": "A fresh and vibrant salad made with cucumbers, tomatoes, red onions, olives, and feta cheese, dressed with olive oil, oregano, and lemon juice.",
+        "image": "https://thumbs.dreamstime.com/b/mixed-greek-salad-plate-26007099.jpg",
+        "category": "salad",
+        "price": 13.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36eeaf",
+        "name": "Tomato Soup",
+        "recipe": "A creamy and comforting soup made with ripe tomatoes, onions, garlic, and herbs, often served with a grilled cheese sandwich for the perfect pairing.",
+        "image": "https://thumbs.dreamstime.com/b/gazpacho-traditional-dish-symbol-andalusian-cuisine-white-isolated-background-cold-soup-made-tomatoes-peppers-278371488.jpg",
+        "category": "soup",
+        "price": 12.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee89",
+        "name": "Apple Crumble",
+        "recipe": "Warm, spiced apples topped with a buttery crumble, baked to golden perfection. It's a comforting, homey dessert best served with a scoop of ice cream.",
+        "image": "https://handletheheat.com/wp-content/uploads/2022/09/easy-apple-crisp-recipe-SQUARE-550x550.jpg",
+        "category": "dessert",
+        "price": 13.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee8a",
+        "name": "Sticky Toffee Pudding",
+        "recipe": "A moist sponge cake made with dates and soaked in a rich toffee sauce, often served with vanilla ice cream or custard for a satisfying dessert.",
+        "image": "https://th.bing.com/th/id/OIP.TbVqtugE941DZo9vhMrKPQAAAA?rs=1&pid=ImgDetMain",
+        "category": "dessert",
+        "price": 12.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee96",
+        "name": "BBQ Chicken Pizza",
+        "recipe": "A flavorful pizza featuring grilled chicken, barbecue sauce, red onions, and mozzarella, offering a smoky and sweet taste.",
+        "image": "https://thumbs.dreamstime.com/b/chicken-pizza-round-circle-white-background-74974610.jpg",
+        "category": "pizza",
+        "price": 9.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee81",
+        "name": "Hot Chocolate",
+        "recipe": "A rich, creamy drink made with milk, cocoa powder, and sugar, often topped with whipped cream for an indulgent treat.",
+        "image": "https://img.freepik.com/premium-photo/hot-chocolate-drink-white-background_1020121-142.jpg",
+        "category": "drinks",
+        "price": 10.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee84",
+        "name": "Tiramisu",
+        "recipe": "An Italian classic made with layers of coffee-soaked ladyfingers and mascarpone cheese, topped with cocoa powder for a creamy and flavorful experience.",
+        "image": "https://img.freepik.com/premium-photo/chocolate-tiramisu-cake-with-white-background_245481-88950.jpg",
+        "category": "dessert",
+        "price": 14.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36eea4",
+        "name": "Caprese Salad",
+        "recipe": "An Italian salad featuring fresh tomatoes, mozzarella cheese, and basil, drizzled with balsamic glaze and olive oil for a simple yet flavorful dish.",
+        "image": "https://th.bing.com/th/id/OIP.3OKbo4TSSxTE3j5Yd4kHZAHaHa?w=626&h=626&rs=1&pid=ImgDetMain",
+        "category": "salad",
+        "price": 13.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36eea5",
+        "name": "Cobb Salad",
+        "recipe": "A hearty salad made with mixed greens, grilled chicken, avocado, bacon, hard-boiled eggs, blue cheese, and a tangy vinaigrette dressing.",
+        "image": "https://thumbs.dreamstime.com/b/delicious-fresh-caesar-salad-bowl-white-delicious-fresh-caesar-salad-bowl-white-background-196234327.jpg",
+        "category": "salad",
+        "price": 9.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee87",
+        "name": "Cheesecake",
+        "recipe": "A rich and creamy dessert made with cream cheese and a graham cracker crust, often topped with fruit, chocolate, or caramel for extra sweetness.",
+        "image": "https://img.freepik.com/premium-photo/plate-with-delicious-cheesecake-slice-white-background_947206-2652.jpg",
+        "category": "dessert",
+        "price": 13.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee83",
+        "name": "Mint Mojito",
+        "recipe": "A zesty and refreshing cocktail made with fresh mint leaves, lime juice, rum, and soda water.",
+        "image": "https://img.freepik.com/premium-photo/mint-mojito-cocktail-mockup-white-background_899449-71774.jpg?w=2000",
+        "category": "drinks",
+        "price": 13.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee7f",
+        "name": "Burgers",
+        "recipe": "A globally-loved fast food dish consisting of a grilled beef patty (or veggie patty) served in a bun, with various toppings like lettuce, tomato, cheese, and sauces.",
+        "image": "https://thumbs.dreamstime.com/b/big-hamburger-white-background-beautiful-juicy-burger-meat-vegetables-isolated-46633441.jpg",
+        "category": "popular",
+        "price": 14.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36eea8",
+        "name": "Quinoa Salad",
+        "recipe": "A healthy salad made with cooked quinoa, mixed vegetables like cucumbers, bell peppers, and cherry tomatoes, dressed with lemon and olive oil.",
+        "image": "https://thumbs.dreamstime.com/b/greek-salad-plate-26498424.jpg",
+        "category": "salad",
+        "price": 13.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36eeba",
+        "name": "Mango Lassi",
+        "recipe": "A creamy and cooling Indian yogurt-based drink made with ripe mangoes, yogurt, and a hint of cardamom, perfect for a tropical refreshment.",
+        "image": "https://img.freepik.com/premium-photo/illustration-mango-juice-vivid-yellow-elixir_435599-18002.jpg",
+        "category": "drinks",
+        "price": 14.7
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee80",
+        "name": "Iced Latte",
+        "recipe": "A smooth and energizing blend of espresso and cold milk, served over ice, perfect for coffee lovers.",
+        "image": "https://thumbs.dreamstime.com/b/iced-milk-green-tea-leaf-top-56169575.jpg",
+        "category": "drinks",
+        "price": 14.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee90",
+        "name": "Macarons",
+        "recipe": "Delicate French cookies made from almond flour, filled with buttercream or ganache, offering a sweet, chewy texture with a crispy exterior.",
+        "image": "https://img.freepik.com/premium-photo/macaron-cookies_962523-207.jpg",
+        "category": "dessert",
+        "price": 9.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36eeb0",
+        "name": "Minestrone Soup",
+        "recipe": "A hearty Italian soup filled with vegetables, beans, pasta, and a rich tomato-based broth, offering a healthy and satisfying meal.",
+        "image": "https://img.freepik.com/premium-photo/italian-minestrone-soup-white-background_980224-1895.jpg",
+        "category": "soup",
+        "price": 13.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee8d",
+        "name": "Apple Pie",
+        "recipe": "A comforting dessert with a buttery, flaky crust filled with spiced, sweetened apples, often served with vanilla ice cream or whipped cream.",
+        "image": "https://img.freepik.com/premium-photo/tasty-homemade-apple-pie-white-background_667286-4103.jpg?w=2000",
+        "category": "dessert",
+        "price": 13.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee8e",
+        "name": "Banoffee Pie",
+        "recipe": "A decadent dessert made with layers of toffee, bananas, and whipped cream on a biscuit base, creating a sweet and creamy flavor profile.",
+        "image": "https://static.vecteezy.com/system/resources/previews/026/516/608/large_2x/delicious-banoffee-pie-isolated-on-white-background-free-photo.jpg",
+        "category": "dessert",
+        "price": 12.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36eea7",
+        "name": "Fruit Salad",
+        "recipe": "A refreshing mix of seasonal fruits like watermelon, pineapple, berries, and citrus, often tossed with a hint of mint or honey for extra flavor.",
+        "image": "https://st.focusedcollection.com/11312302/i/650/focused_157137378-stock-photo-fruit-salad-in-bowl.jpg",
+        "category": "salad",
+        "price": 9.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee99",
+        "name": "Veggie Pizza",
+        "recipe": "A colorful pizza loaded with a variety of vegetables like bell peppers, onions, mushrooms, spinach, and olives, all topped with mozzarella and tomato sauce.",
+        "image": "https://i.pinimg.com/originals/4a/99/93/4a9993be8eea8794619bfdbe742e731e.jpg",
+        "category": "pizza",
+        "price": 14.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36eeb3",
+        "name": "Chicken Noodle Soup",
+        "recipe": "A classic soup made with tender chicken, vegetables, and egg noodles in a savory chicken broth, perfect for soothing and comforting the soul.",
+        "image": "https://static.vecteezy.com/system/resources/previews/026/554/646/large_2x/classic-chicken-noodle-soup-isolated-on-white-background-free-photo.jpg",
+        "category": "soup",
+        "price": 9.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36eeb5",
+        "name": "Butternut Squash Soup",
+        "recipe": "A velvety and sweet soup made from roasted butternut squash, onions, and a touch of cream, offering a smooth and comforting texture.",
+        "image": "https://oldworldgardenfarms.com/wp-content/uploads/2023/10/bowl-of-butternut-squash-soup-1-scaled.jpg",
+        "category": "soup",
+        "price": 9.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36eeb6",
+        "name": "French Onion Soup",
+        "recipe": "A rich and savory soup made with caramelized onions, beef broth, and topped with melted cheese and toasted bread for a perfect combination of flavors.",
+        "image": "https://th.bing.com/th/id/OIP.WPW8zqu1eQcQe9gqpU5JUgHaE7?rs=1&pid=ImgDetMain",
+        "category": "soup",
+        "price": 14.7
+    },
+    {
+        "_id": "642c155b2c4774f05c36eeb8",
+        "name": "Pumpkin Soup",
+        "recipe": "A smooth, savory-sweet soup made with pureed pumpkin, onions, garlic, and a hint of spices like cinnamon and nutmeg, perfect for fall.",
+        "image": "https://www.shutterstock.com/image-photo/bowl-ov-vegetable-cream-soup-600nw-2251374671.jpg",
+        "category": "soup",
+        "price": 14.7
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee7e",
+        "name": "Falafel",
+        "recipe": "A Middle Eastern vegetarian dish made of deep-fried balls or patties of ground chickpeas or fava beans, often served in pita bread with hummus or tahini.",
+        "image": "https://img.freepik.com/premium-photo/falafel-saudi-arabian-dish-white-plate-white-background-directly-view_864588-12798.jpg",
+        "category": "popular",
+        "price": 14.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee8b",
+        "name": "Chocolate Mousse",
+        "recipe": "A rich and velvety dessert made with whipped cream and melted chocolate, offering a light yet indulgent texture that melts in your mouth.",
+        "image": "https://img.freepik.com/premium-photo/plate-chocolate-mousse-dessert-with-syrup-strawberry-sauce_865967-33872.jpg",
+        "category": "dessert",
+        "price": 13.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee8f",
+        "name": "Brownies",
+        "recipe": "Fudgy or cake-like squares made from rich chocolate, often served warm with a scoop of ice cream or drizzled with caramel for extra flavor.",
+        "image": "https://www.alfrescofeasts.co.uk/wp-content/uploads/2013/10/brownie.jpg",
+        "category": "dessert",
+        "price": 13.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee91",
+        "name": "Rice Pudding",
+        "recipe": "A creamy and comforting dessert made with rice, milk, sugar, and cinnamon, offering a warm, comforting, and slightly spiced sweetness.",
+        "image": "https://static.vecteezy.com/system/resources/previews/026/515/911/non_2x/delicious-rice-pudding-isolated-on-white-background-photo.jpg",
+        "category": "dessert",
+        "price": 14.7
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee97",
+        "name": "Hawaiian Pizza",
+        "recipe": "A sweet and savory combination of ham and pineapple on a tomato sauce base, topped with mozzarella cheese, offering a tropical twist.",
+        "image": "https://b.zmtcdn.com/data/pictures/5/19563835/06641647c56a2f8af649f3002397783a.jpeg",
+        "category": "pizza",
+        "price": 14.7
+    },
+    {
+        "_id": "642c155b2c4774f05c36eea0",
+        "name": "Four Cheese Pizza",
+        "recipe": "A rich and indulgent pizza topped with a blend of four cheeses—typically mozzarella, cheddar, gorgonzola, and parmesan—on a tomato sauce base.",
+        "image": "https://img.freepik.com/premium-psd/circular-pizza-with-cheese-sauce-wooden-plate-italian-food-isolate-white-background_999419-656.jpg",
+        "category": "pizza",
+        "price": 14.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36eea9",
+        "name": "Pasta Salad",
+        "recipe": "A delicious salad made with cooked pasta, vegetables like olives, cherry tomatoes, and bell peppers, and dressed in a vinaigrette or creamy dressing.",
+        "image": "https://www.iheartnaptime.net/wp-content/uploads/2021/02/buffalo-chicken-salad-7-720x514.jpg",
+        "category": "salad",
+        "price": 9.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee85",
+        "name": "Gelato",
+        "recipe": "An Italian-style ice cream made with more milk and less cream than regular ice cream, offering a denser, richer, and smoother texture.",
+        "image": "https://static.vecteezy.com/system/resources/previews/026/723/594/non_2x/of-gelato-on-plate-isolated-on-white-background-created-by-generative-ai-photo.jpg",
+        "category": "dessert",
+        "price": 10.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee93",
+        "name": "Meat Lovers Pizza",
+        "recipe": "A hearty pizza piled with various meats like sausage, bacon, pepperoni, and ham, all smothered in mozzarella cheese for a savory feast.",
+        "image": "https://static.vecteezy.com/system/resources/previews/025/446/386/large_2x/tasty-top-view-pizza-italian-traditional-round-pizza-white-background-ai-generative-free-photo.jpg",
+        "category": "pizza",
+        "price": 10.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee95",
+        "name": "Mushroom Pizza",
+        "recipe": "A delicious pizza featuring earthy mushrooms, often paired with garlic, herbs, and cheese, creating a rich, savory flavor profile.",
+        "image": "https://th.bing.com/th/id/OIP.YNTlc5WinEbc-VKHfLh3vwHaHa?rs=1&pid=ImgDetMain",
+        "category": "pizza",
+        "price": 13.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee9b",
+        "name": "White Pizza",
+        "recipe": "A pizza made without tomato sauce, topped with ricotta cheese, mozzarella, garlic, and olive oil, often garnished with spinach or artichokes.",
+        "image": "https://thumbs.dreamstime.com/b/pizza-marbled-beef-ham-salami-chorrizo-isolated-metal-tray-italy-pizzeria-traditional-italian-meet-cooked-veal-201042219.jpg",
+        "category": "pizza",
+        "price": 14.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36eeb7",
+        "name": "Sweet Corn Soup",
+        "recipe": "A light and slightly sweet soup made with fresh corn, chicken broth, and a touch of cream, offering a comforting and easy-to-make dish.",
+        "image": "https://th.bing.com/th/id/OIP.zmoCLoZ3CYvECmnEQx5tXgHaE4?rs=1&pid=ImgDetMain",
+        "category": "soup",
+        "price": 9.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee9c",
+        "name": "Pesto Chicken Pizza",
+        "recipe": "A fresh twist on pizza, featuring grilled chicken, pesto sauce, mozzarella, and a medley of vegetables for a light yet flavorful dish.",
+        "image": "https://media.istockphoto.com/id/1319251770/photo/top-view-on-bbq-chicken-pizza-with-tomatoes-and-paprika.jpg?s=612x612&w=0&k=20&c=QzCfVeg7HRt_mdvCi6wsZTuEwkhPz_AZA-2IP4xjRM4=",
+        "category": "pizza",
+        "price": 12.9
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee9d",
+        "name": "Seafood Pizza",
+        "recipe": "Roasted duck breast (served pink) with gratin potato and a griottine cherry sauce",
+        "image": "https://thumbs.dreamstime.com/b/whole-seafood-pizza-big-shrimps-close-up-146715310.jpg",
+        "category": "pizza",
+        "price": 14.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36eeac",
+        "name": "Spinach and Strawberry Salad",
+        "recipe": "A fresh salad made with spinach, sliced strawberries, red onions, and candied pecans, dressed with balsamic vinegar and olive oil.",
+        "image": "https://detoxnutrition.com/wp-content/uploads/Salad1-1.png",
+        "category": "salad",
+        "price": 14.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36eeb4",
+        "name": "Beef and Barley Soup",
+        "recipe": "A rich, savory soup made with tender chunks of beef, barley, and vegetables, offering a filling and wholesome meal that’s perfect for cold weather.",
+        "image": "https://static.vecteezy.com/system/resources/previews/026/554/379/large_2x/traditional-vegetable-beef-soup-isolated-on-white-background-photo.jpg",
+        "category": "soup",
+        "price": 14.7
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee98",
+        "name": "Supreme Pizza",
+        "recipe": "A loaded pizza with a mix of pepperoni, sausage, bell peppers, onions, mushrooms, olives, and mozzarella, offering a little bit of everything",
+        "image": "https://images.rawpixel.com/image_social_landscape/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTA5L3Jhd3BpeGVsb2ZmaWNlNF9waG90b19vZl9tYXJnYXJpdGFfcGl6emFfdHJheV9pc29sYXRlZF9vbl93aGl0ZV8yZTcyMGVjZi05NGI5LTRjZTEtYjAyYS02OGMzYWZkYzA4MTNfMS5qcGc.jpg",
+        "category": "pizza",
+        "price": 12.9
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee82",
+        "name": "Bubble Tea",
+        "recipe": "A sweet, chewy, and refreshing tea-based drink that comes with tapioca pearls or fruit-flavored bubbles.",
+        "image": "https://img.freepik.com/premium-photo/bubble-tea-drink-isolated-white-background_827055-3267.jpg",
+        "category": "drinks",
+        "price": 12.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee86",
+        "name": "Churros",
+        "recipe": "Crispy, fried dough sticks coated in cinnamon sugar and often served with chocolate or caramel dipping sauce for a sweet, crunchy treat.",
+        "image": "https://th.bing.com/th/id/OIP.D_zyQRfOKfwcPGG2OFTaGwHaHa?w=996&h=996&rs=1&pid=ImgDetMain",
+        "category": "dessert",
+        "price": 12.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee9a",
+        "name": "Caprese Pizza",
+        "recipe": "Inspired by the Caprese salad, this pizza features fresh mozzarella, tomatoes, basil, and a drizzle of balsamic glaze, offering a fresh and light flavor.",
+        "image": "https://www.tasteofhome.com/wp-content/uploads/2022/06/Pizza-Caprese_EXPS_TOHJJ22_267330_DR_02_01_7b.jpg?fit=700%2C1024",
+        "category": "pizza",
+        "price": 12.9
+    },
+    {
+        "_id": "642c155b2c4774f05c36eeab",
+        "name": "Chickpea Salad",
+        "recipe": "A protein-packed salad made with chickpeas, cucumbers, tomatoes, red onions, and herbs, tossed in olive oil, lemon, and cumin for a Mediterranean twist.",
+        "image": "https://img.freepik.com/premium-photo/captivating-chana-chaat-isolated-white-background-ar-c_839793-32681.jpg",
+        "category": "salad",
+        "price": 14.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36eeb1",
+        "name": "Potato Leek Soup",
+        "recipe": "A creamy, smooth soup made with pureed potatoes and leeks, often topped with crispy bacon or herbs for a comforting and savory meal.",
+        "image": "https://thumbs.dreamstime.com/b/leek-soup-comfort-meal-potato-creamy-vegetarian-food-white-background-isolated-299720174.jpg",
+        "category": "soup",
+        "price": 9.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36eead",
+        "name": "Chicken Tortilla Soup",
+        "recipe": "A flavorful Mexican soup made with chicken, tomatoes, and vegetables, topped with crispy tortilla strips, avocado, and cheese for extra crunch and flavor.",
+        "image": "https://img.freepik.com/premium-photo/plate-with-chicken-soup-isolated-white-background_185193-73555.jpg",
+        "category": "soup",
+        "price": 14.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36eeae",
+        "name": "Clam Chowder",
+        "recipe": "A creamy, hearty soup made with tender clams, potatoes, onions, and celery, typically served in a bread bowl or with crackers for added texture.",
+        "image": "https://img.freepik.com/premium-photo/clam-chowder-soup-isolated-white-background_506134-17817.jpg",
+        "category": "soup",
+        "price": 10.5
+    }
+]
