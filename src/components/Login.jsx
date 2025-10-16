@@ -17,7 +17,6 @@ const Login = () => {
 
   const from = location.state?.from?.pathname || "/";
   
-
   //react hook form
   const {
     register,
